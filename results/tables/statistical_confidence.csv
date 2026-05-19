@@ -1,0 +1,4 @@
+Model,Mean Hallucination,Std Dev,CI Lower,CI Upper
+Phi-4,0.909,0.287,0.900,0.919
+Qwen,0.633,0.482,0.618,0.648
+LLaMA,0.847,0.360,0.836,0.858
