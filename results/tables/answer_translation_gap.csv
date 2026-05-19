@@ -1,0 +1,6 @@
+Language,Answer Similarity,Translation Similarity,Gap
+Bengali,0.065,0.117,0.053
+Hindi,0.109,0.332,0.223
+Malayalam,0.143,0.902,0.760
+Tamil,0.117,0.133,0.016
+Telugu,0.126,0.131,0.005
