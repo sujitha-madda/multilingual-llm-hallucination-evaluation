@@ -184,7 +184,7 @@ The analysis shows that translation introduces a relatively uniform noise floor,
 
 ### Attention Entropy
 
-![Attention Entropy](figures/attention entropy.png)
+![Attention Entropy](figures/attention_entropy.png)
 
 ### Layer-wise Confidence
 
