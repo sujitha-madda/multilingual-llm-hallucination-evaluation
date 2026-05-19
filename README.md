@@ -176,7 +176,7 @@ The analysis shows that translation introduces a relatively uniform noise floor,
 
 ### Hallucination Rate by Model
 
-![Hallucination by Model](figures/hallucination_by_model.png)
+![Hallucination by Model](figures/hallucination_rate_by_model.png)
 
 ### Model vs Language Heatmap
 
@@ -184,7 +184,7 @@ The analysis shows that translation introduces a relatively uniform noise floor,
 
 ### Attention Entropy
 
-![Attention Entropy](figures/attention_entropy.png)
+![Attention Entropy](figures/attention entropy.png)
 
 ### Layer-wise Confidence
 
